@@ -1,0 +1,22 @@
+textarea {
+    resize:none;
+}
+
+h1.page-title {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+input[type=file].form-control {
+    width: initial;
+    border:0;
+}
+
+p.price-tag {
+    font-size: 1.75rem;
+}
+
+.card-footer {
+    background-color: initial;
+    border:0;
+}
